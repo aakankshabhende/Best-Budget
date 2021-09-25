@@ -114,7 +114,7 @@ git push -u origin <your_branch_name>
 <p align="center"><img src="https://media.tenor.com/images/b562ddcfb131e962f9dfa01bd32a30d1/tenor.gif" width=30%></p>
 
 Congratulations🎉, you have made a PR to the Best-Budget.
-Wait for your submission to be accepted and your PR to be merged by a maintainer.
+Wait for your submission to be accepted and your PR to be merged by a maintainer.<br/>
 Show some ❤️ by starring🌟 the repository! Follow for more updates.
 
 ---
