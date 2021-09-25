@@ -115,7 +115,7 @@ git push -u origin <your_branch_name>
 
 Congratulations🎉, you have made a PR to the Best-Budget.
 Wait for your submission to be accepted and your PR to be merged by a maintainer.
-
+Show some ❤️ by starring🌟 the repository! Follow for more updates.
 
 ---
 
