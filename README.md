@@ -13,7 +13,7 @@ Shopping with your friends always sounds fun💥
 <p align="center"><img src="https://www.upbeatsoles.com/wp-content/uploads/2014/07/1-going-shopping.gif" width = 40%></p>
 
 
-Now say goodbye to those tensions because [Best-Budget](https://github.com/aakankshabhende/Best-Budget/) is here to the rescue. Now you can shop anytime✨
+Now with [Best-Budget](https://github.com/aakankshabhende/Best-Budget/) you can shop anytime✨
 <p align="center"><img src="https://media.tenor.com/images/9ab245324a95fdb46ba5a06f8e20143e/tenor.gif" width = 35%></p>
 
 
